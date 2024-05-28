@@ -42,3 +42,9 @@ Repository - like a folder or container that stores files/folders related to a p
 
 *git status
 	- displays the current status of your file/folder
+
+* git log 
+	- diplays all the commits that were made (full version)
+
+* git log --oneline
+	- displays the condensed version of the git log (shorter version)
